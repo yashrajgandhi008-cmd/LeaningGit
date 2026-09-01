@@ -1,2 +1,2 @@
 # LeaningGit
-Exploring week 1
+Exploring week 1.
